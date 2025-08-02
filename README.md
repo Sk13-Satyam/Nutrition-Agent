@@ -1,0 +1,1 @@
+This agent helps users make healthier food decisions by understanding text, image, or voice input. It generates personalized meal plans, recommends smart food swaps, explains nutritional reasoning, and adapts with continuous feedback. Built using IBM Cloud and Granite LLM."
